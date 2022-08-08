@@ -61,12 +61,13 @@ const Contact = () => {
             </ul>
             <div className={st.social__links}>
               <a
+              rel="noreferrer"
                 target="_blank"
                 href="https://www.linkedin.com/in/harpreet-singh-a903a3170/"
               >
                 <i className="ri-linkedin-box-line"></i>
               </a>
-              <a target="_blank" href="https://github.com/heisenpreet">
+              <a rel="noreferrer" target="_blank" href="https://github.com/heisenpreet">
                 <i className="ri-github-fill"></i>
               </a>
             </div>

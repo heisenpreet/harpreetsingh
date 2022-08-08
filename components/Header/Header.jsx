@@ -7,7 +7,7 @@ import { NAV__LINK } from "../data/navLinks";
 const Header = () => {
   const headerRef = useRef(null);
   const menuRef = useRef(null);
-  let debounce = useMemo(() => false, []);
+  let debounce = useRef(false);
   const headerFX = useCallback(() => {
     if (debounce) {
       clearTimeout(debounce);

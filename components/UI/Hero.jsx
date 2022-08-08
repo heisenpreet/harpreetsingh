@@ -31,6 +31,7 @@ const Hero = () => {
                   className={`primary__btn ${st.btn__linkedin}`}
                 >
                   <a
+                    rel="noreferrer"
                     target="_blank"
                     href="https://www.linkedin.com/in/harpreet-singh-a903a3170/"
                   >
