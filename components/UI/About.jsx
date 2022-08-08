@@ -16,7 +16,10 @@ const About = () => {
             <div className="app__skills-exp">
               {exp.map((exp) => (
                 <div className="app__skills-exp-item" key={exp.year}>
-                  <div className="app__skills-exp-year">
+                  <div
+                    style={{ marginLeft: "1.5rem" }}
+                    className="app__skills-exp-year"
+                  >
                     <h5 className="yearh">{exp.year}</h5>
                   </div>
                   <div className="app__skill-exp-works">
