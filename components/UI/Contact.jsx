@@ -20,7 +20,7 @@ const Contact = () => {
               download my CV here:
               <a
                 target="_blank"
-                href="/resume__2_.pdf"
+                href="/HarpreetSingh.pdf"
                 rel="noopener noreferrer"
                 style={{ color: "#01d293 " }}
               >

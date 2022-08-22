@@ -41,7 +41,7 @@ const Hero = () => {
                 <button type="button" className="secondary__btn">
                   <a
                     target="_blank"
-                    href="/resume__2_.pdf"
+                    href="/HarpreetSingh.pdf"
                     rel="noopener noreferrer"
                   >
                     Download CV
