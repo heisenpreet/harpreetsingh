@@ -39,7 +39,13 @@ const Hero = () => {
                   </a>
                 </button>
                 <button type="button" className="secondary__btn">
-                  <a href="#">Download CV</a>
+                  <a
+                    target="_blank"
+                    href="/resume__2_.pdf"
+                    rel="noopener noreferrer"
+                  >
+                    Download CV
+                  </a>
                 </button>
               </div>
             </div>

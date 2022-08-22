@@ -16,9 +16,14 @@ const Contact = () => {
             <p>
               Feel free to connect with me on my linkedin page , You can also
               email me or call me on the given phone number or leave me a
-              message using the message box on your right, If you wish to hire
-              me you can download my CV here:{" "}
-              <a style={{ color: "#01d293 " }} href="#">
+              message using the message box, If you wish to hire me you can
+              download my CV here:
+              <a
+                target="_blank"
+                href="/resume__2_.pdf"
+                rel="noopener noreferrer"
+                style={{ color: "#01d293 " }}
+              >
                 Download CV
               </a>
             </p>
@@ -61,13 +66,17 @@ const Contact = () => {
             </ul>
             <div className={st.social__links}>
               <a
-              rel="noreferrer"
+                rel="noreferrer"
                 target="_blank"
                 href="https://www.linkedin.com/in/harpreet-singh-a903a3170/"
               >
                 <i className="ri-linkedin-box-line"></i>
               </a>
-              <a rel="noreferrer" target="_blank" href="https://github.com/heisenpreet">
+              <a
+                rel="noreferrer"
+                target="_blank"
+                href="https://github.com/heisenpreet"
+              >
                 <i className="ri-github-fill"></i>
               </a>
             </div>
