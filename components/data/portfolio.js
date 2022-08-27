@@ -6,6 +6,7 @@ import exoloc from "../../public/Images/portfolio/exoloc.png";
 import havenhomes from "../../public/Images/portfolio/havenhomes.png";
 import mycapture from "../../public/Images/portfolio/mycapture.png";
 import webinarform from "../../public/Images/portfolio/webinarform.png";
+import parking from "../../public/Images/portfolio/parking.png";
 
 const portfolio = [
   {
@@ -110,6 +111,14 @@ const portfolio = [
     category: "Web Design",
     keyword: ["Web", "MVC", "API"],
     liveUrl: "https://planetary-chai-harpreet.vercel.app/",
+  },
+  {
+    id: "09",
+    title: "Parking App",
+    img: parking,
+    category: "Web Design",
+    keyword: ["ReactJS", "TailwindCSS", "Redux"],
+    liveUrl: "https://harpreet-parking-app.vercel.app/",
   },
 ];
 
