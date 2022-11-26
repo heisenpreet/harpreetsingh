@@ -3,8 +3,8 @@ export const exp = [
     year: 2021,
     work: [
       {
-        name: "Web Development",
-        company: "Assistech",
+        name: "Web-Development,SEO",
+        company: "ICLabs",
       },
     ],
   },
@@ -12,8 +12,8 @@ export const exp = [
     year: 2022,
     work: [
       {
-        name: "Web-Development,SEO",
-        company: "ICLabs",
+        name: "React Native, Full Stack Development",
+        company: "MantraCare",
       },
       {
         name: "ReactJS Development",
