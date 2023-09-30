@@ -21,4 +21,13 @@ export const exp = [
       },
     ],
   },
+  {
+    year: 2023,
+    work: [
+      {
+        name: "Mid-Senior Front End Developer",
+        company: "Redrock Capital Advisors Pvt Ltd ( ibankey)",
+      },
+    ],
+  },
 ];
