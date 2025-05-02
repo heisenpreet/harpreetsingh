@@ -2,7 +2,9 @@
   color: #01d293 !important;
   font-weight: 400;
   margin-left: 40px;
+  font-family: 'Caveat', Courier, monospace;
   position: relative;
+  font-size: 28px;
 }
 
 .section__subtitle::before {

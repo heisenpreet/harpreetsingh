@@ -2,7 +2,6 @@ import React from "react";
 
 import { Container, Row, Col } from "reactstrap";
 import Image from "next/image";
-import Link from "next/link";
 import SectionSubtile from "./SectionSubtitle";
 import st from "../../styles/hero.module.css";
 import HeroImg from "../../public/Images/HeroImg.png";
